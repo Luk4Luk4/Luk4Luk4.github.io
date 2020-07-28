@@ -1,7 +1,8 @@
 body {
   font-family: Arial;
   padding: 20px;
-  background-image: "blog bg.png";
+  background-color: black;
+  color: #6cc655;
 }
 
 /* Header/Blog Title */
@@ -9,7 +10,7 @@ body {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background: white;
+  background: black;
 }
 
 
@@ -22,7 +23,7 @@ body {
 
 /* Add a card effect for articles */
 .card {
-  background-color: white;
+  background-color: black;
   padding: 20px;
   margin-top: 20px;
 }
